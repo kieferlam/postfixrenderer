@@ -5,3 +5,6 @@ This is project created with Kotlin and JavaFX to test rendering mathematical ex
 
 ### Input: 1+2
 ![Rendered Version Of Input](https://raw.githubusercontent.com/kieferlam/postfixrenderer/master/rsc/readme/1%2B2.PNG)
+
+### Input: 5*3/2
+![Rendered Version Of Input](https://raw.githubusercontent.com/kieferlam/postfixrenderer/master/rsc/readme/5m3d2.PNG)
